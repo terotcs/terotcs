@@ -1575,3 +1575,10 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+
+/* ======= ESTILIZAÇÃO PERSONALIZADA ======= */
+.subtitulo-tab-pane {
+  color:#bd5102;
+}
