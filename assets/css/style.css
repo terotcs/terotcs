@@ -402,7 +402,7 @@ h6 {
   line-height: 1;
   margin: 10px;
   color: #fff;
-  animation-delay: 0.8s;
+    animation-delay: 0.8s;
   border: 2px solid #bd5102;
 }
 
@@ -1588,10 +1588,10 @@ section {
   margin-bottom: 20px;
 }
 
-.logo-slide {
-  width: 40%;
-}
-
 .valores-item {
   margin-top: 40px;
+}
+
+.imagem-quem-somos {
+  height: 70%;
 }
