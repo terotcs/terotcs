@@ -1609,6 +1609,19 @@ section {
 }
 
 
+.imagem-contato {
+  height: 50%;
+}
+
+@media (max-width: 768px) {
+  .logo-footer {
+    height: 100px;
+  }
+
+  .footer-logo {
+    width: 30%;
+  }
+}
 
 
 /*--------------------------------------------------------------
