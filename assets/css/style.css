@@ -1596,6 +1596,16 @@ section {
   height: 70%;
 }
 
+.imagem-missao {
+  margin-top: 80px;
+  width: 60%;
+}
+
+.imagem-visao {
+  margin-top: 80px;
+  width: 100%;
+}
+
 .imagem-manifesto {
   margin-top: 80px;
 }
@@ -1638,6 +1648,28 @@ section {
   }
 
 }
+
+#about {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#features {
+  padding-top: 0;
+}
+
+@media (max-width: 768px) {
+  #about {
+    height: 1350px;
+  }
+}
+
+@media (max-width: 960px) {
+  #about {
+    height: 1150px;
+  }
+}
+
 
 
 /*--------------------------------------------------------------
