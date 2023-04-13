@@ -1623,6 +1623,22 @@ section {
   }
 }
 
+.fale-conosco {
+  height: 350px;
+}
+
+@media (max-width: 768px) {
+  .fale-conosco {
+    height: 450px;
+  }
+
+  .imagem-contato {
+    display: block;
+    margin: 40px auto 0 auto;
+  }
+
+}
+
 
 /*--------------------------------------------------------------
 # Cliens
@@ -1650,3 +1666,5 @@ section {
     max-width: 40%;
   }
 }
+
+
