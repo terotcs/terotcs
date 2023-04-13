@@ -1593,7 +1593,13 @@ section {
 }
 
 .imagem-quem-somos {
-  height: 70%;
+  height: 60%;
+}
+
+@media (max-width: 768px) {
+  .imagem-quem-somos {
+    height: 46%;
+  }
 }
 
 .imagem-missao {
@@ -1649,26 +1655,53 @@ section {
 
 }
 
-#about {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
 #features {
   padding-top: 0;
 }
 
-@media (max-width: 768px) {
+#about {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 660px;
+}
+
+@media (max-width: 1200px) {
   #about {
-    height: 1350px;
+    height: 800px;
   }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 992px) {
+  #about {
+    height: 1040px;
+  }
+}
+
+@media (max-width: 539px) {
+  #about {
+    height: 1100px;
+  }
+}
+
+@media (max-width: 440px) {
   #about {
     height: 1150px;
   }
 }
+
+@media (max-width: 398px) {
+  #about {
+    height: 1200px;
+  }
+}
+
+@media (max-width: 280px) {
+  #about {
+    height: 2000px;
+  }
+}
+
+
 
 
 
