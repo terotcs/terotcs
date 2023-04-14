@@ -1743,6 +1743,7 @@ section {
 section#links {
   margin-top: 100px;
   margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 section#pdfs {
