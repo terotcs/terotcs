@@ -1710,6 +1710,24 @@ section {
   margin-top: 150px;
 }
 
+.blog-post {
+  margin-top: 80px;
+}
+
+.blog-post-img {
+  margin-bottom: 40px;
+  margin-top: 60px;
+}
+
+.blog-post-container {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.figure-caption {
+  margin-top: 10px;
+}
+
 
 /*--------------------------------------------------------------
 # Cliens
@@ -1785,7 +1803,7 @@ section#pdfs {
 .blog .blog-pagination li.active,
 .blog .blog-pagination li:hover {
   background: var(--color-primary);
-  color: #fff;
+  color: #bd5102;
 }
 
 .blog .blog-pagination li.active a,
